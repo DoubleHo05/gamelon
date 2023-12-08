@@ -1,0 +1,6 @@
+1. Bring the Racing() into Main
+2. Optimize the car images
+3. Add name of the cars to the leaderboard
+4. Blit the map 
+5. Create next and back button
+6. Design map and car (Truong Bao Thien An will do that for me)
